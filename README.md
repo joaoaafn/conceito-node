@@ -1,4 +1,4 @@
-# conceito-node
+# conceito-node GoStack 2020
 
 ## Nível #1 - Back-end com Node.js
 
